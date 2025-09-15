@@ -1,0 +1,22 @@
+[
+    {"Character": "Zafina", "Move": "b1+2", "Notes": "now nerfed", "link": "https://okizeme.gg/database/zafina/b%2B1%2B2"},
+    {"Character": "Bryan", "Move": "qcf1+2", "Notes": "now nerfed", "link": "https://okizeme.gg/database/bryan/SLS.1%2B2"},
+    {"Character": "Paul", "Move": "b4", "Notes": "not as much range as bryan d4, but practically homing and +4 on hit", "link": "https://okizeme.gg/database/paul/b%2B4"},
+    {"Character": "Leo/Feng", "Move": "d4", "Notes": "same archetype as bryan d4, but lesser range", "link": "https://okizeme.gg/database/feng/d%2B4"},
+    {"Character": "Lars", "Move": "den 1", "Notes": "2 followup jailing + HE + legacy properties = toxic ", "link": "https://okizeme.gg/database/lars/DEN.1"},
+    {"Character": "Leo", "Move": "f4", "Notes": "expanded hurtbox (would've included b1,4 but they reverted it)", "link": "https://okizeme.gg/database/leo/f%2B4"},
+    {"Character": "Azu", "Move": "u3+4", "Notes": "linear, but insane range and +ob into stance mixup", "link": "https://okizeme.gg/database/azucena/uf%2B3%2B4"},
+    {"Character": "Nina", "Move": "f4", "Notes": "again linear, but very difficult to whiff punish + high extension", "link": "https://okizeme.gg/database/nina/f%2B4"},
+    {"Character": "Alisa", "Move": "f2", "Notes": "hard to step in heat, can choose to not finish for chainsaw mix and HE", "link": "https://okizeme.gg/database/alisa/f%2B2"},
+    {"Character": "Law", "Move": "1+2", "Notes": "in heat", "link": "https://okizeme.gg/database/law/H.1%2B2"},
+    {"Character": "Drag", "Move": "qcf4", "Notes": "nerfed", "link": "https://okizeme.gg/database/dragunov/SNK.4"},
+    {"Character": "Yoshi", "Move": "3~4", "Notes": "", "link": "https://okizeme.gg/database/yoshimitsu/3~4"},
+    {"Character": "Kuma", "Move": "bf2", "Notes": "", "link": "https://okizeme.gg/database/kuma/b%2Cf%2B2"},
+    {"Character": "Devil Jin", "Move": "u1", "Notes": "", "link": "https://okizeme.gg/database/devil-jin/uf%2B1"},
+    {"Character": "Lee", "Move": "1+2", "Notes": "", "link": "https://okizeme.gg/database/lee/1%2B2?search=1%2B2"},
+    {"Character": "Lee", "Move": "ff2", "Notes": "minor because it's a high and relatively easier to step even at range", "link": "https://okizeme.gg/database/lee/f%2CF%2B2"},
+    {"Character": "Lee", "Move": "ff3", "Notes": "minor because it's nerfed pushback but still a HE", "link": "https://okizeme.gg/database/lee/f%2CF%2B3"},
+    {"Character": "Jin", "Move": "ff2", "Notes": "minor because technically less tracking than TTT2 and less pushback than T7 but still a HE", "link": "https://okizeme.gg/database/jin/f%2CF%2B2"},
+    {"Character": "Jin", "Move": "bf2", "Notes": "esp because of 3 extension", "link": "https://okizeme.gg/database/jin/b%2Cf%2B2"}
+
+]

@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+    margin: 40px;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 20px auto;
+
+}
+
+.table-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+th, td {
+    padding: 12px 18px;
+    text-align: left;
+}
+
+th {
+    background: #502d2d;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+tr:nth-child(even) {
+    background: #faf2f2;
+}
+
+tr:hover {
+    background: #fbeaea;
+}
+
+a {
+    color: #1976d2;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+details {
+    width: 80%;
+    margin: 0 auto 24px auto;
+    background: #f9fafc;
+    border: 1px solid #eadbdb;
+    border-radius: 6px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    padding: 0.5em 1em;
+}
+
+details[open] {
+    background: #faeeee;
+}
+
+.notes-content {
+    margin-top: 12px;
+    font-size: 1em;
+    color: #333;
+}
+
+details summary {
+    outline: none;
+}
+
+li {
+    padding-bottom: 4px;
+}
